@@ -53,7 +53,7 @@ export const CardContainer = styled.div`
   width: 80%;
 `
 
-export const Number = styled.h1`
+export const Number = styled.p`
   font-family: 'Roboto';
   color: #ffffff;
   font-size: 36px;

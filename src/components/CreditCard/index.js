@@ -27,7 +27,7 @@ const CreditCard = () => {
       <FirstContainer>
         <MainHeading>CREDIT CARD</MainHeading>
         <Br />
-        <CardContainer>
+        <CardContainer data-testid="creditCard">
           <Number>{cardNo}</Number>
           <Paragraph>CARDHOLDER NAME</Paragraph>
           <Name>{name}</Name>
